@@ -3,7 +3,7 @@
 ![Beginner-Go’s github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Beginner-Go&hide=issues&include_all_commits=true&hide_title=true&theme=gotham)
 
 ## 💻Environment:
-![Windows](https://img.shields.io/badge/Windows_24H2-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11_24H2-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt_SNAPSHOT-00B5E2?style=flat-square&logo=openwrt&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_14-3DDC84?style=flat-square&logo=Android&logoColor=white)
@@ -49,6 +49,7 @@
 ![.Net](https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)

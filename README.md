@@ -27,6 +27,7 @@
 ## 🛠️Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Adguard](https://img.shields.io/badge/Adguard-68BC71?style=flat-square&logo=adguard&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
 ![Notepat++](https://img.shields.io/badge/Notepat++-1DB954?style=flat-square&logo=notepadplusplus&logoColor=white)
 ![IDEA](https://img.shields.io/badge/IDEA-7F7FFF?style=flat-square&logo=intellijidea&logoColor=white)
@@ -36,6 +37,10 @@
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white)
+![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-005FB8?style=flat-square&logo=microsoftstore&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 
 ## 🛠️Languages:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)

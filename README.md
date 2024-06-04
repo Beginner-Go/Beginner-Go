@@ -22,7 +22,7 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=Twitter&logoColor=white)
+![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)
 
 ## 🛠️Tools:

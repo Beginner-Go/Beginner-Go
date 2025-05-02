@@ -6,8 +6,9 @@
 ![Windows](https://img.shields.io/badge/Windows_11_24H2-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt_SNAPSHOT-00B5E2?style=flat-square&logo=OpenWrt&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS_18-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_14-1DB954?style=flat-square&logo=Android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_6.6-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_6.12-FCC624?style=flat-square&logo=Linux&logoColor=white)
 
 ## 🛠️Software:
 ![Alipay](https://img.shields.io/badge/Alipay-00A1E9?style=flat-square&logo=Alipay&logoColor=white)

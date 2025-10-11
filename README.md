@@ -3,11 +3,11 @@
 ![Beginner-Go’s github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Beginner-Go&hide=issues&include_all_commits=true&hide_title=true&theme=gotham)
 
 ## 💻Environment:
-![Windows](https://img.shields.io/badge/Windows_11_24H2-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11_25H2-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt_SNAPSHOT-00B5E2?style=flat-square&logo=OpenWrt&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS_18-000000?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android_14-1DB954?style=flat-square&logo=Android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS_26-000000?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android_15-1DB954?style=flat-square&logo=Android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_6.12-FCC624?style=flat-square&logo=Linux&logoColor=white)
 
 ## 🛠️Software:
